@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="60dp"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:background="@drawable/bg_round_white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:gravity="center">
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/iv_loading_dialog_img"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@mipmap/loading" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_loading_dialog_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:lineSpacingExtra="3dp"
+        android:text="6/1"
+        android:textColor="@color/gray_424242"
+        android:visibility="gone" />
+
+</LinearLayout>

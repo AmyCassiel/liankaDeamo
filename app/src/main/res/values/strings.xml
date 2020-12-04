@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">奁卡</string>
+    <string name="tv_tips">温馨提示</string>
+    <string name="tv_tips_text">
+        我们非常重视您的个人信息和隐私保护。为了有效保障您的个人权益，在使用“奁卡”服务前，请您务必审慎阅读《用户服务协议》与《隐私协议》内的所有条款，尤其是：\n
+        1. 为向您提供交易相关基本功能，我们会收集/保存/使用必要的信息，您授予奁卡及其关联公司通用的、永久的、免费的许可使用权利；\n
+        2. 我们会采取业界先进的安全措施保护您的信息安全。
+    </string>
+    <string name="checkbox">《奁卡用户协议》</string>
+    <string name="tv_tips_cancel">不同意</string>
+    <string name="tv_tips_okay">同意并继续</string>
+    <string name="tv_login">登录</string>
+    <string name="tv_register">注册</string>
+    <string name="tv_nvitation_code">邀请码</string>
+    <string name="tv_print_nvitation_code">请输入邀请码</string>
+    <string name="tv_tel_number">手机号码</string>
+    <string name="tv_print_tel_number">请输入手机号码</string>
+    <string name="tv_verification_code">验证码</string>
+    <string name="tv_print_verification_code">请输入验证码</string>
+    <string name="title_reset_password" translatable="false">重置密码</string>
+    <string name="et_new_password">请输入新密码（6-20位英文和数字）</string>
+    <string name="tv_get_verification_code">获取验证码</string>
+    <string name="tv_password">密码</string>
+    <string name="tv_print_password">请输入密码</string>
+    <string name="tv_confirm_password">确认密码</string>
+    <string name="tv_print_password_again">请再次输入密码</string>
+    <string name="tv_password_wrong">密码有误，请重新输入。</string>
+    <string name="tv_login_verification_code">验证码登录</string>
+    <string name="tv_forget_password">忘记密码</string>
+    <string name="tv_username_pass">账号密码登录</string>
+    <string name="tv_other_login">第三方账号登录</string>
+    <string name="tv_agreement">我已阅读并同意奁卡《用户服务协议》与《隐私协议》》</string>
+    <string name="tv_okay">确定</string>
+    <string name="tv_cancle">取消</string>
+    <string name="bt_commit">提交</string>
+</resources>
